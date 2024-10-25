@@ -10,4 +10,4 @@ I was using `vim` and wondering how the programming language \<insert name here\
 To answer that, I thought "hum, I need a complete syntax example of every language I am thinking" so this repo's fork was perfect to test.  
 
 I just changed the file extensions (so the highlight can work) of the languages I want and/or know the ext, 
-some aren't even languages so mardown will be the correct choice since it is just explanation.
+some aren't even languages so markdown will be the correct choice since it is just explanation.
